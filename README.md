@@ -42,8 +42,8 @@ All data used are public and require no registration. Eurostat Aviation Passenge
 
 Repo structure
 
-notebook1_data.ipynb — data construction, route classification, FIR-transit logic
+- notebook1_data.ipynb — data construction, route classification, FIR-transit logic
 
-notebook2_co2.ipynb — CO2 emissions estimation from flight counts and distance-band fuel burn
+- notebook2_co2.ipynb — CO2 emissions estimation from flight counts and distance-band fuel burn
 
-notebook3_analysis.ipynb — TWFE estimation, event study, heterogeneity analysis, robustness checks
+- notebook3_analysis.ipynb — TWFE estimation, event study, heterogeneity analysis, robustness checks
