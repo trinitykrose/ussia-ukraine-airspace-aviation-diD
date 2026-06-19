@@ -1,8 +1,3 @@
-The Impact of the Russia-Ukraine War on European Aviation: A Difference-in-Differences Approach
-
-
-Question
-
 Did the 2022 closure of Russian and Ukrainian airspace cause a measurable decline in European aviation activity? Did the resulting rerouting offset any of the associated emissions reduction?
 
 
